@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=Open+Sans:wght@600&family=Patrick+Hand&family=Roboto:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=Open+Sans:wght@600&family=Patrick+Hand&family=Roboto:wght@400;500;700&display=swap');
+
+/* === RESET ==== */
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+h1, p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+button {
+    border: none;
+    font-family: inherit;
+}
+
+.container__phrase{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
